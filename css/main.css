@@ -72,7 +72,7 @@ h2 {font-size:46px; font-weight:normal;}
 #block-otherEXP #other-4 .other-pic {height:200px; display:inline-block; margin:0;}
 
 /* block-wantMore */
-#block-downLoad{background-color:#227ae7; color:#fff; padding: 20px;}
+#block-downLoad{background-color:#227ae7; color:#fff;padding-top:10px;padding-bottom:10px;}
 #dLoad{width:180px;  margin-left:450px;}
 #block-downLoad p {font-size: 14px;float: right}
-.pdf-downLoad{position:absolute; height:38px;}
+.pdf-downLoad{ height:38px;}
