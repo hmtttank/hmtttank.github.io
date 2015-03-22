@@ -20,12 +20,12 @@ h2 {font-size:46px; font-weight:normal;}
 
 /* block-intro */
 #block-intro {height:auto; width:100%; background-color:#1889C5; padding:80px 0 110px;}
-#intro-icon  {height:300px; width:100%; line-height:300px;}
-.link        {display:inline-block; height:100px; width:100px; text-indent: -9999em;-webkit-transition:0.4s linear;transition:0.4s ease-in;}
+#intro-icon  {height:200px; width:100%; line-height:300px;}
+.link        {display:inline-block; height:60px; width:60px; text-indent: -9999em;-webkit-transition:0.4s linear;transition:0.4s ease-in;}
 .link:hover  {-webkit-transform:rotate(360deg);transform:rotate(360deg);}
-#link-weibo   {background:url(../img/Weibo.png) no-repeat center;  margin-left:90px;}
-#link-douban   {background:url(../img/Douban.png) no-repeat center;  margin-left:50px;}
-#link-dian   {background:url(../img/Diandian.png) no-repeat center;  margin-left:50px;}
+#link-weibo   {background:url(../img/Weibo.png) no-repeat center; background-size: 60px 60px;  margin-left:90px;}
+#link-douban   {background:url(../img/Douban.png) no-repeat center; background-size: 60px 60px;  margin-left:40px;}
+#link-dian   {background:url(../img/Diandian.png) no-repeat center; background-size: 60px 60px;  margin-left:40px;}
 #myPhoto       {height:270px; width:270px; display:inline-block; margin:0 0 0 130px;}
 #intro-text    {display:inline-block; margin:80px 0 0 130px; color:white;}
 #intro-text li {height:30px;}
